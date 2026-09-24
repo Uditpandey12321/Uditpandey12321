@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://shorturl.at/bB6jQ](https://shorturl.at/bB6jQ)
 
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pandey-udit-narayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandey-udit-narayan/" height="30" width="40" /></a>
