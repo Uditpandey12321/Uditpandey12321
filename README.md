@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Narayan Pandey</h1>
-<h3 align="center">B.Tech IT Final Year Student | Developer | GL Bajaj, Greater Noida</h3>
+<h3 align="center">B.Tech (IT) Garduate | Developer | GL Bajaj, Greater Noida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditpandey12321&label=Profile%20views&color=0e75b6&style=flat" alt="uditpandey12321" /> </p>
 
